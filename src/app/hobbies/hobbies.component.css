@@ -1,0 +1,22 @@
+/*=================================================================*/
+/*                      hobby                              
+/*=================================================================*/
+.hobby-box {
+    -webkit-transform: translateY(0);
+    -ms-transform: translateY(0);
+    transform: translateY(0);
+    -webkit-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+  }
+  .hobby-box h3 {
+    font-size: 20px;
+  }
+  .hobby-box img {
+    margin-bottom: 22px;
+  }
+  .hobby-box:hover {
+    -webkit-transform: translateY(-10px);
+    -ms-transform: translateY(-10px);
+    transform: translateY(-10px);
+  }
