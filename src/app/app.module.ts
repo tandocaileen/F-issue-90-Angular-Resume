@@ -10,6 +10,8 @@ import { HobbiesComponent } from './hobbies/hobbies.component';
 import { EducationComponent } from './education/education.component';
 import { PortfolioComponent } from './portfolio/portfolio.component';
 
+
+
 @NgModule({
   declarations: [
     AppComponent,

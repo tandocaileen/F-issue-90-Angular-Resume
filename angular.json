@@ -27,7 +27,7 @@
               "src/assets"
             ],
             "styles": [
-
+              "src/styles.css"
             ],
             "scripts": [
               "src/assets/js/jquery.easing.min.js",
@@ -110,6 +110,7 @@
               "src/assets"
             ],
             "styles": [
+              "src/styles.css"
             ],
             "scripts": [
               "src/assets/js/jquery.easing.min.js",
